@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分数求和", "分数求和.vcxproj", "{9C477419-3206-4691-B7A4-A06C34B00861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Debug|x64.ActiveCfg = Debug|x64
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Debug|x64.Build.0 = Debug|x64
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Debug|x86.Build.0 = Debug|Win32
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Release|x64.ActiveCfg = Release|x64
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Release|x64.Build.0 = Release|x64
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Release|x86.ActiveCfg = Release|Win32
+		{9C477419-3206-4691-B7A4-A06C34B00861}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5963C75E-4710-403F-A5C8-DD3D35A995D8}
+	EndGlobalSection
+EndGlobal
